@@ -1,1 +1,1 @@
-console.log('panel', window.__streamCache__)
+console.log('panel', (window as any).__streamCache__)
